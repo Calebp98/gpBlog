@@ -21,9 +21,8 @@
 title: Good Policies Blog
 email: hello@goodpolicies.org
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Blog for Good Policies. A new charity looking to improve public health policies in low and middle income countries to bring impact at scale.
+  Currently focussed on tobacco control measures (specifically tobacco taxation).
 baseurl: "/gpBlog" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: placeholder
