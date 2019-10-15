@@ -33,9 +33,9 @@ theme: minima
 plugins:
   - jekyll-feed
 
-header_pages:
-  - about.markdown
-  - index.markdown
+# header_pages:
+#   - about.markdown
+#   - index.markdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.
