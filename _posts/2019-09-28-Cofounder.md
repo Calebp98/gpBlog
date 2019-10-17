@@ -28,7 +28,7 @@ Conversion notes:
 
 ## **The position**
 
-I am seeking out an altruistic and driven co-founder who is keen to maximise their counterfactual impact by starting high impact charities. I have decided to found a charity with a current focus on tobacco control, advocating to low and middle-income countries to increase tobacco taxes. The [World Health Organization](https://www.who.int/tobacco/mpower/raise_taxes/en/) and [Copenhagen Consensus, state](https://www.copenhagenconsensus.com/publication/chronic-disease) that this is the most cost-effective policy intervention that they are aware of in global health and you can read a summary of Charity Entrepreneurship’s research on tobacco taxation [here](http://www.charityentrepreneurship.com/blog/tobacco-taxation) and GiveWell’s conversation notes where they discuss tobacco taxation [here](https://files.givewell.org/files/conversations/Yolonda_Richardson_12-12-17_(public).pdf).
+I am seeking out an altruistic and driven co-founder who is keen to maximise their counterfactual impact by starting high impact charities. I have decided to found a charity with a current focus on tobacco control, advocating to low and middle-income countries to increase tobacco taxes. The [World Health Organization](https://www.who.int/tobacco/mpower/raise_taxes/en/) and [Copenhagen Consensus, state](https://www.copenhagenconsensus.com/publication/chronic-disease) that this is the amongst the most cost-effective policies that they are aware of in global health and you can read a summary of Charity Entrepreneurship’s research on tobacco taxation [here](http://www.charityentrepreneurship.com/blog/tobacco-taxation) and GiveWell’s conversation notes where they discuss tobacco taxation [here](https://files.givewell.org/files/conversations/Yolonda_Richardson_12-12-17_(public).pdf).
 
 Our research and cost effectiveness analysis suggests that this is likely to be the most cost-effective policy that has been rigorously examined that mitigates the disease burden of non-communicable diseases. The organisation is amenable to other interventions if a strong case can be made that they are likely to be more cost-effective.
 
@@ -62,7 +62,7 @@ _An ideal applicant would have most of these things_
 
 ## **Desirable Attributes:**
 
-_An ideal applicant might have one or more of these things_
+_An ideal applicant **might** have **one** or more of these things_
 
 
 
@@ -71,6 +71,7 @@ _An ideal applicant might have one or more of these things_
 *   The ability to work out of London in the same office as the existing co-founder
 *   Desire to travel abroad when necessary
 *   Experience managing sizeable budgets
+*   Previous experience at a think tank
 *   Experience working in South Asia in global health or poverty alleviation
 *   Experience in advocacy roles in low and middle-income countries (connections to government would be particularly valuable)
 *   Advanced degree (Masters or PhD or equivalent) in economics and an interest in development economics
@@ -100,14 +101,14 @@ Your application should include two files: your resume and a document containing
 
 
 
-1. A cover letter expressing what you would bring to the team
+1. A cover letter expressing  what you would bring to the team
 2. A CV (please feel free to supplement this with a linkedin profile/personal website/github/etc. as necessary)
 
 Application deadline : Rolling (Email [hello@goodpolicies.org](mailto:hello@goodpolicies.org) for the latest information)
 
 
 
-Want to learn more about who I am? [Let’s chat](https://calendly.com/parikhcaleb/co-founder-info-slot) or you can email me at [parikcaleb@gmail.com](mailto:parikcaleb@gmail.com). I’m excited to pursue this opportunity and look forward to reading your application!
+Want to learn more about this opportunity? [Let’s chat](https://calendly.com/parikhcaleb/co-founder-info-slot) or you can email me at [parikcaleb@gmail.com](mailto:parikcaleb@gmail.com). I’m excited to pursue this opportunity and look forward to reading your application!
 
 
 
