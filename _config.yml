@@ -18,12 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+permalink: /blog/:categories/:year/:month/:day/:title.html
+
 title: Good Policies Blog
 email: hello@goodpolicies.org
 description: >- # this means to ignore newlines until "baseurl:"
   Blog for Good Policies. A new charity looking to improve public health policies in low and middle income countries to bring impact at scale.
   Currently focussed on tobacco control measures (specifically tobacco taxation).
-baseurl: "/gpBlog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: placeholder
 # github_username:  placeholder
