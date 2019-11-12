@@ -104,11 +104,11 @@ Your application should include two files: your resume and a document containing
 1. A cover letter expressing  what you would bring to the team
 2. A CV (please feel free to supplement this with a linkedin profile/personal website/github/etc. as necessary)
 
-Application deadline : Rolling (Email [hello@goodpolicies.org](mailto:hello@goodpolicies.org) for the latest information)
+Application deadline : Rolling (Email [caleb.parikh@goodpolices.org](mailto:caleb.parikh@goodpolices.org) for the latest information)
 
 
 
-Want to learn more about this opportunity? [Let’s chat](https://calendly.com/parikhcaleb/co-founder-info-slot) or you can email me at [parikcaleb@gmail.com](mailto:parikcaleb@gmail.com). I’m excited to pursue this opportunity and look forward to reading your application!
+Want to learn more about this opportunity? [Let’s chat](https://calendly.com/parikhcaleb/co-founder-info-slot) or you can email me at [parikhcaleb@gmail.com](mailto:parikhcaleb@gmail.com). I’m excited to pursue this opportunity and look forward to reading your application!
 
 
 
